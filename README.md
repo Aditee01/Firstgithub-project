@@ -1,2 +1,3 @@
 # Firstgithub-project
-My first github repository.
+This is My first github repository.
+Author-Aditee Mohapatra
